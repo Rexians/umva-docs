@@ -1,21 +1,21 @@
+---
+description: Welcome to the official docs of "Unofficial DMV API"
+---
+
 # Welcome!
 
-## Welcome to MyAPI
+> Version: v1.0.0
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+## What is UMVA
 
-## Want to jump right in?
+[DMV](https://disneymirrorverse.com/), short for Disney Mirrorverse is a video game developed by [Kabam](https://kabam.com/).
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+UMA, short for 'Unofficial Mirrorverse API' is an API that gives various information about the game, such as guardians stats. UMA will be constantly updated to include new guardians and changes to the game, so stay tuned!
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
+## Wanna dive?
 
-## Want to deep dive?
+Dive deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

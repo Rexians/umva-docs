@@ -1,10 +1,14 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Quick Start](quick-start.md)
 
-## Reference
+## API Reference
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+* [/guardian](api-reference/guardian/README.md)
+  * [Fetching Guardian response](api-reference/guardian/fetching-guardian-response.md)
+
+## Important Info
+
+* [Guardian IDs](important-info/guardian-ids.md)
+* [Applications](important-info/applications.md)
+* [Discord](important-info/discord.md)
